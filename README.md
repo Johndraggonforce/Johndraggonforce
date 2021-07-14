@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Johndraggonforce
-- 👀 I’m interested in ...Softwre Engineering, Cybersecurity
+- 👀 I’m interested in ...Software Engineering, Cybersecurity
 - 🌱 I’m currently learning ...Java, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...hendriksgn@my.palmbeachstate.edu
